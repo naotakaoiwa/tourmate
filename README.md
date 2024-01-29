@@ -1,24 +1,35 @@
-# README
+## アプリケーション名
+Tour Mate
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## アプリケーション概要
+日本のローカルな場所を知りたい海外旅行客と外人とコミュニケーションを取りたい日本人をマッチングする。
 
-Things you may want to cover:
+## URL
 
-* Ruby version
+## テスト用アカウント
 
-* System dependencies
+## 利用方法
 
-* Configuration
+## アプリケーションを作成した背景
+韓国旅行に行った時、韓国人の友達に現地を案内してもらった。その時連れて行ってくれたのが、観光地化していないローカルな飲食店だった。ローカルな場所こそ国の文化を知る良い機会だと感じた。また、日本人の中には英語を話したい人や外人とコミュニケーションを取りたい人がいると思う。ローカルを知りたい海外旅行客と日本人の交流の場を作りたいと本アプリケーションを開発することにした。
 
-* Database creation
+## 洗い出した要件
+[要件を定義したシート](https://docs.google.com/spreadsheets/d/10sMlbHTOn86M78zxYamdJxR0P8sb5lDb2eB_w7npPUo/edit#gid=982722306)
 
-* Database initialization
+## 実装した機能についての画像やGIFおよびその説明
 
-* How to run the test suite
+## 実装予定の機能
 
-* Services (job queues, cache servers, search engines, etc.)
+## データベース設計
 
-* Deployment instructions
+## 画面遷移図
 
-* ...
+## 開発環境
+
+## ローカルでの動作方法
+
+## 工夫したポイント
+
+## 改善点
+
+## 制作時間
