@@ -4,6 +4,8 @@ class User < ApplicationRecord
   devise :database_authenticatable, :registerable,
          :recoverable, :rememberable, :validatable
   
+  has_many :posts
+
   with_options presence: true, format: { with: /\A[a-zA-Z]+\z/, message: 'is invalid. Input English letters' } do
     validates :nickname
     validates :gender
